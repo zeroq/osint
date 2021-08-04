@@ -2,6 +2,7 @@
 # Most sites are hacked websites, so consider to use this as detection only for a couple of weeks as sites get cleaned up eventually
 
 Discovery Date, URL, Domain, IP, Type
+27.07.2021, https://vertriebstool-telekom.nwt.de/login, vertriebstool-telekom.nwt.de, 193.41.253.10, Telekom Phishing
 22.06.2021, http://voipoid.com/telekom/, voipoid.com, 46.20.229.91, Telekom Phishing
 21.06.2021, https://steaks.com/err/process.php, steaks.com, 34.196.42.90, Sites which processes OneDrive Phishing Credentials
 07.06.2021, https://user-remconfirmation503103.duckdns.org/sw/, user-remconfirmation503103.duckdns.org, 134.122.50.182, Phishing 263.net
